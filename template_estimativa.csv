@@ -1,0 +1,3 @@
+Demanda,AnaliseProblemaGeral,InvestigacaoSQLManual,DebugServicoCSharp,TestesServicoSOAP,DependenciasExternas,IncertezaTecnica,Score(0-100),HorasBase,BufferRisco,HorasFinais,PrazoDiasFrente(1Analista),PrazoDiasComApoio(2Analistas),Complexidade,Confianca,Responsavel,Data
+Exemplo - Falha SOAP em producao,4,4,5,4,3,4,=SOMARPRODUTO(B2:G2;{20\20\25\15\10\10})/5,=2+(H2*0,6),=0,08+(((F2+G2)/2)/5*0,27),=I2*(1+J2),=K2/6,=K2/12,=SE(H2<=20;"Muito baixa";SE(H2<=40;"Baixa";SE(H2<=60;"Media";SE(H2<=80;"Alta";"Muito alta")))),=SE(J2<=0,16;"Alta";SE(J2<=0,24;"Media";"Baixa")),Nome,14/04/2026
+Nova demanda,,,,,,,,,,,,,,,,
